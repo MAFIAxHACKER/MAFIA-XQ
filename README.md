@@ -1,7 +1,10 @@
 MAFIA XQ PAKTOOL RUN COMMAND ON TERMUX
 
+
+```
 cd MAFIA-XQ
 chmod +x setup
 chmod +x MAFIA
 chmod +x MAFIATOOL
 ./MAFIA
+’’’
