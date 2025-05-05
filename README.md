@@ -10,6 +10,7 @@ pkg install libdw
 ```
 pkg install git
 ```
+```
 cd MAFIA-XQ
 chmod +x setup
 chmod +x MAFIA
